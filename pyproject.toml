@@ -68,7 +68,6 @@ document = [
     "cma",
     "cmaes>=0.10.0",  # optuna/samplers/_cmaes.py.
     "fvcore",
-    "lightgbm",
     "matplotlib!=3.6.0",
     "mlflow",
     "pandas",
@@ -86,7 +85,6 @@ document = [
 ]
 integration = [
     "cma",
-    "lightgbm",
     "lightning",
     "mlflow",
     "pytorch-ignite",
